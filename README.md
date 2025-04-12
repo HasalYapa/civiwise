@@ -56,7 +56,7 @@ We're working on adding Sinhala and Tamil language support to make the platform 
 
 ```bash
 # Clone the repository
-git clone https://github.com/HasalYapa/elephant-detection.git
+git clone https://github.com/HasalYapa/civiwise.git
 
 # Navigate to the project directory
 cd civiwise
